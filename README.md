@@ -1,5 +1,5 @@
 # exercise-exquisite-corpse
-## == Collaborateurs
+## == L'histoire complète par:
 
 * Benjamin ;
 * Corentin ;
