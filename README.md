@@ -7,9 +7,9 @@
 * Laura .
 
 
-titre" La croisades des chevaliers contre les mots"
+titre ***La croisades des chevaliers contre les mots***
 
-Il était une fois quatre chevaliers qui étaient missionnés pour sauver le monde. Les vilains mots nommés "codes" menaçaient de détruire la planète wordeland. À l'aide des armes créer par les gobelins, ils partirent à la conquête de Gitordor pour vaincre le chef Saurode le chat qui voulait conquérir l'univers. Mais ils ont dû combattre l'armée de Saurode remplie de codes étranges et compliqués.
+Il était une fois quatre *chevaliers* qui étaient missionnés pour sauver le monde. Les vilains mots nommés **"codes"** menaçaient de détruire la planète ***wordeland***. À l'aide des armes créer par les gobelins, ils partirent à la conquête de *Gitordor* pour vaincre le chef ***Saurode*** le chat qui voulait conquérir l'univers. Mais ils ont dû combattre l'armée de Saurode remplie de codes étranges et compliqués.
 
 
 
